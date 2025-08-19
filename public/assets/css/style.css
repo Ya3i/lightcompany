@@ -2842,3 +2842,8 @@ header {
         background-color: #eeeeee; }
 
 /* framework-button css end */
+
+.banner-content{
+    text-align: center;
+    direction: rtl;
+}

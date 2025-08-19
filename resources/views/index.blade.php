@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en">
+<html lang="fa">
 
 <head>
     <!-- Required meta tags -->
@@ -17,7 +17,7 @@
     <link rel="stylesheet" href="assets/css/colors/color1.css" id="color-opt" />
     <link rel="stylesheet" href="assets/css/style.css" />
 
-    <title>قالب لندینگ پیج شرکتی - نت کپی</title>
+    <title>لایت کمپانی</title>
 </head>
 
 <body class="rtl" data-menu-sticky='1' id="demo1">
@@ -745,7 +745,6 @@
                         <div class="sub-title-wrapper">
                             <h4 class="site-subtitle2">برای هرگونه شرایط اضطراری با ما تماس بگیرید</h4>
                         </div>
-                        <p class="contact-dec">+98 123 456 789</p>
                         <div class="form">
                             <form id="bootstrapForm">
                                 <div class="form-group">
